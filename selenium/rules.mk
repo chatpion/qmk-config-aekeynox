@@ -1,2 +1,4 @@
 CAPS_WORD_ENABLE = yes
 MOUSEKEY_ENABLE = yes
+ENCODER_MAP_ENABLE = yes
+USER_NAME := halcyon_modules
